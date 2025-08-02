@@ -1,0 +1,6 @@
+{
+  "dotnet.testProjectPath": "MyCsvApp.Tests",
+  "dotnet.testExplorer.enabled": true,
+  "dotnet.testExplorer.testProjectPath": "MyCsvApp.Tests",
+  "dotnet.defaultSolution": "MyCsvApp.sln"
+}       
